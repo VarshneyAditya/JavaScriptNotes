@@ -1,0 +1,15 @@
+
+10th_Jan
+1.Output
+2.Conditional Statements
+3.Logical and Arithmetical Operators
+4.Data Types
+5.Variables
+6.Numbers, Characters and Arrays
+
+11th_jan
+7.Loops In programming
+8.Functions
+
+
+
